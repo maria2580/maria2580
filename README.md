@@ -1,10 +1,9 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=maria2580&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IoT%20%26%20Mobile%20Developer&descAlignY=55&descAlign=50" alt="Header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=maria2580's%20Dev%20Space&fontSize=45&animation=shake" alt="Header" />
 ---
 
-## �‍💻 About Me
+## 💻 About Me
 
 > **안녕하세요!** 🚀  
 > 스마트 팩토리 시스템과 모바일 애플리케이션 개발에 열정을 가진 개발자입니다.
@@ -23,7 +22,7 @@ const maria2580 = {
 ---
 
 ## 🛠️ Tech Stack
-
+<div align="center">
 <table>
 <tr>
     <td align="center" width="25%">
@@ -62,7 +61,7 @@ const maria2580 = {
     </td>
 </tr>
 </table>
-
+</div>
 <br/>
 
 ---
