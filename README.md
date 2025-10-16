@@ -66,7 +66,7 @@ const maria2580 = {
 
 ---
 
-## � GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -81,7 +81,7 @@ const maria2580 = {
 
 ---
 
-## � Featured Projects
+## 🌟 Featured Projects
 
 <table>
 <tr>
