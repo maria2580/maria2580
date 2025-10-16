@@ -4,8 +4,8 @@
 
 ## 💻 About Me
 
-> **안녕하세요!** 🚀  
-> 스마트 팩토리 시스템과 모바일 애플리케이션 개발에 열정을 가진 개발자입니다.
+> **안녕하세요!** 
+> 실시간 시스템과 유틸리티 개발에 열정을 가진 개발자 최세진입니다.
 
 <br/>
 
@@ -15,19 +15,22 @@
 
 **📍 Location**  
 🇰🇷 South Korea
-
+<br>
+<br>
 **🎯 Interests**  
-🏭 Smart Factory  
-🔌 IoT Systems  
-📱 Mobile Development
+🏭 Smart Factory<br>
+🚁 UAV-drone Simulation <br>
+🔌 IoT Systems  <br>
+📱 Mobile Development<br>
 
 </td>
 <td align="center" width="50%">
 
 **🔥 Current Focus**  
-⚡ Android Accessibility Service  
-🕷️ Web Crawling
-
+📚 learning CUDA & ISAAC SIM<br>
+⚡ AI-powered Accessibility Service<br> 
+🕷️ Web Crawling<br>
+<br>
 **💡 Goal**  
 효율적인 자동화 시스템으로  
 더 나은 세상 만들기
@@ -41,53 +44,42 @@
 ---
 
 ## 🛠️ Tech Stack
+
 <div align="center">
-<table>
-<tr>
-    <td align="center" width="20%">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        <br><strong>Java</strong>
-    </td>
-    <td align="center" width="20%">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br><strong>Python</strong>
-    </td>
-    <td align="center" width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65" />
-        <br><strong>Kotlin</strong>
-    </td>
-    <td align="center" width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="65" height="65" />
-        <br><strong>Android</strong>
-    </td>
-    <td align="center" width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="65" height="65" />
-        <br><strong>Spring</strong>
-    </td>
-</tr>
-<tr>
-    <td align="center" width="20%">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="65" height="65" />
-        <br><strong>Raspberry Pi</strong>
-    </td>
-    <td align="center" width="20%">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/-76B900?style=flat&logo=nvidia&logoColor=white" alt="Isaac Sim" width="65" height="65" />
-        <br><strong>Isaac Sim</strong>
-    </td>
-    <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" width="65" height="65" />
-        <br><strong>CUDA</strong>
-    </td>
-</tr>
-</table>
+
+### 💻 Languages
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+### 📚 Frameworks & Libraries
+<p>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🔧 Hardware & IoT
+<p>
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+### 🤖 Simulation & Tools
+<p>
+<img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 </div>
 <br/>
 
