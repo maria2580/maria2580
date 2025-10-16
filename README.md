@@ -1,7 +1,6 @@
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=maria2580's%20Dev%20Space&fontSize=45&animation=shake" alt="Header" />
----
 
 ## 💻 About Me
 
@@ -140,8 +139,6 @@ const maria2580 = {
 </table>
 
 <br/>
-
----
 
 ## 📫 Connect With Me
 
