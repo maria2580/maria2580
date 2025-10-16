@@ -7,14 +7,34 @@
 > **안녕하세요!** 🚀  
 > 스마트 팩토리 시스템과 모바일 애플리케이션 개발에 열정을 가진 개발자입니다.
 
-```typescript
-const maria2580 = {
-    location: "South Korea 🇰🇷",
-    interests: ["Smart Factory", "IoT Systems", "Mobile Development"],
-    currentFocus: ["Android Accessibility Service", "Web Crawling"],
-    goal: "효율적인 자동화 시스템으로 더 나은 세상 만들기"
-};
-```
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**📍 Location**  
+🇰🇷 South Korea
+
+**🎯 Interests**  
+🏭 Smart Factory  
+🔌 IoT Systems  
+📱 Mobile Development
+
+</td>
+<td align="center" width="50%">
+
+**🔥 Current Focus**  
+⚡ Android Accessibility Service  
+🕷️ Web Crawling
+
+**💡 Goal**  
+효율적인 자동화 시스템으로  
+더 나은 세상 만들기
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -24,39 +44,47 @@ const maria2580 = {
 <div align="center">
 <table>
 <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
         <br><strong>Java</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
         <br><strong>Python</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65" />
         <br><strong>Kotlin</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="65" height="65" />
         <br><strong>Android</strong>
     </td>
-</tr>
-<tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="65" height="65" />
         <br><strong>Spring</strong>
     </td>
-    <td align="center" width="25%">
+</tr>
+<tr>
+    <td align="center" width="20%">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
         <br><strong>MySQL</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="65" height="65" />
         <br><strong>Raspberry Pi</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
         <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/-76B900?style=flat&logo=nvidia&logoColor=white" alt="Isaac Sim" width="65" height="65" />
+        <br><strong>Isaac Sim</strong>
+    </td>
+    <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" width="65" height="65" />
+        <br><strong>CUDA</strong>
     </td>
 </tr>
 </table>
